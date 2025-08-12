@@ -7,7 +7,7 @@ on:
   workflow_dispatch:                   # manual button press
 
 env:
-      USE_JAVA_VERSION: "17"
+      USE_JAVA_VERSION: "16"
       
 jobs:
   build-java:
